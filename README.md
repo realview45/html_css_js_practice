@@ -6,6 +6,8 @@
                     <td>2026-01-06</td>
                 </tr>
  </table>
+ <details>
 <summary>📚 기획 배경</summary>
 <br/>
 기획기획
+ </details>
